@@ -20,7 +20,7 @@
 <pre>
 - LANGUAGE    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 - DATABASE    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-- FRAMEWORK   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=macy's&logoColor=yellow">
+- FRAMEWORK   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=yellow">
 - NETWORK     <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 - CLOUD       <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 - DEPLOYMENT  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
